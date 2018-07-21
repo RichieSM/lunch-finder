@@ -12,7 +12,8 @@
  */
 
 /**
- * This function makes a simple random choice. At this time weightings are done by repetition. True weighting to come later when I can be bothered because it's the weekend and nobody has time for this.
+ * This function makes a simple random choice. At this time weightings are done by repetition.
+ * True weighting to come later when I can be bothered because it's the weekend and nobody has time for this.
  */
 function choose() {
     $choice = 0;
