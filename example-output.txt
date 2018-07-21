@@ -1,0 +1,33 @@
+$ while :; do php lunch.php; done
+McDonalds
+Greggs
+Itsu
+Pret
+McDonalds
+Waitrose
+Greggs
+Pret
+Pret
+Pret
+Waitrose
+Itsu
+Eat
+Eat
+Burger King
+Pret
+Eat
+Burger King
+Pret
+McDonalds
+Pret
+That Italian Place on the corner
+Eat
+Waitrose
+Pret
+Greggs
+Greggs
+Waitrose
+Burger King
+Waitrose
+Waitrose
+Pret
