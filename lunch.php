@@ -27,7 +27,7 @@ function choose() {
     //$randomFirstChoice = random_int(0,1); // Make $places[0] appear 50% less often... (disabled for now)
     //$choice = random_int($randomFirstChoice, count($places) - 1);
     $choice = random_int(1, count($places) - 1);
-    return $places[$choice];
+    return (string) $places[$choice];
 }
 
 $x = choose();
